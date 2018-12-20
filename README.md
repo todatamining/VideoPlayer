@@ -8,8 +8,7 @@ Project Description
 
 Contact Information
 -------
-* Author: 郭峰
-* Email: iamguofeng@163.com 
+* 微信公众号: PM实验室 
 * CSDN: http://blog.csdn.net/plain_maple
 
 Application Screenshot
